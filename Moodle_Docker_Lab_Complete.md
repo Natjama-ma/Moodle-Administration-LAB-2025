@@ -746,6 +746,9 @@ Learning outcomes:
  รูปหน้าผลลัพธ์การสร้างรายวิชา
 ```
 
+<img width="1897" height="912" alt="image" src="https://github.com/user-attachments/assets/16551558-4be3-4c45-aec5-b7ed77dec7c1" />
+
+
 ---
 
 ### 6.4 การจัดการผู้ใช้งาน (User Management)
@@ -807,6 +810,9 @@ Programming, Python, Data Science
  รูปหน้า ผลการสร้าง User ใหม่
 ```
 
+<img width="1249" height="889" alt="image" src="https://github.com/user-attachments/assets/81e0e8b7-5aa1-4c32-95b8-d58026562e3b" />
+
+
 **วิธีที่ 2: Upload Users (CSV)**
 
 1. ไปที่ **Site administration → Users → Accounts → Upload users**
@@ -829,6 +835,9 @@ student003,Pass@123,สมศักดิ์,ขยัน,student003@example.com
 ```bash
  รูปหน้า ผลการ Upload Users
 ```
+
+<img width="1262" height="802" alt="image" src="https://github.com/user-attachments/assets/9d23e271-2c3f-4ef5-9bd8-c4463deea4a1" />
+
 
 #### 6.4.3 การลงทะเบียนเรียน (Enrolment)
 
@@ -890,6 +899,10 @@ Cohort = กลุ่มผู้ใช้ (เช่น ม.1, ม.2 หรื�
 ```bash
  รูปหน้า ผลการ Upload Users และเพิ่มคอลัมน์ cohort
 ```
+
+<img width="1361" height="797" alt="image" src="https://github.com/user-attachments/assets/24fc5295-887f-43ff-984f-44bc17d18ee9" />
+
+
 ---
 
 
